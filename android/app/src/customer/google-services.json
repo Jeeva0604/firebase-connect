@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "778700099683",
+    "project_id": "pushnotification-bedfc",
+    "storage_bucket": "pushnotification-bedfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778700099683:android:db0ba80f9063bfad432856",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778700099683-nu83rieugu8cflha6u5fhl4dln0t7jb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOy8N88DhRhrOUg4AnSeJlUBxCuJqKWBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778700099683-igigabu2t3nn67bjc73u8hg0rv5b6eo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778700099683-2mlueos621mf8p3508c4qpp1grasnm9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pushnotification.pushNotificationCloud"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778700099683:android:bd27222059b8069f432856",
+        "android_client_info": {
+          "package_name": "com.example.login_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778700099683-avlghpv440qns0etih70h7gl5rijv87l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_api",
+            "certificate_hash": "62679e85cd485158bc9bccc94a3b58b29808ab2c"
+          }
+        },
+        {
+          "client_id": "778700099683-stt7uc49csj24ctbgs6k7l4ivkg35tos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_api",
+            "certificate_hash": "4e5c252dcc79dc7be2499eda944dfdf06914aec3"
+          }
+        },
+        {
+          "client_id": "778700099683-nu83rieugu8cflha6u5fhl4dln0t7jb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOy8N88DhRhrOUg4AnSeJlUBxCuJqKWBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778700099683-igigabu2t3nn67bjc73u8hg0rv5b6eo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778700099683-2mlueos621mf8p3508c4qpp1grasnm9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pushnotification.pushNotificationCloud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
